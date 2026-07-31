@@ -1,0 +1,3 @@
+# This directory holds the offline Airtable record cache (airtable_cache.json)
+# and the HD image cache (Airtable HD Cache/).
+# These files are generated at runtime and are excluded from version control.
